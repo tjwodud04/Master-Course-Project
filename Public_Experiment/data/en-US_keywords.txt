@@ -1,0 +1,99 @@
+{
+    "\\bhi\\b" : "[
+        'hi',
+        'hello there'
+    ]",
+    "hello.*"	: "[
+        'hi',
+        'hello there'
+    ]",
+    "nice to see you" : "[
+        'Greetings',
+        'You too'
+    ]",
+    ".*how are you.*" : "[
+        'Good',
+        'Doing well'
+    ]",
+    ".*food.*" : "[
+        'I don\\'t know',
+        'Let\\'s find some soon',
+        'Food is always good'
+    ]",
+    ".* monster.*near.*" : "[
+        'I\\'m not sure',
+        'Maybe',
+        'We\\'ll find out'
+    ]",
+     ".*monster.*" : "[
+        'We\\'ll find out',
+        'Seems dangerous',
+        'Just part of the game'
+    ]",
+    ".*oh my god.*" : "[
+        'Is there a problem?',
+        'Do you need help?'
+    ]",
+    "aah" : "[
+        'Is there a problem?',
+        'Do you need help?'
+    ]",
+    ".*bad.*" : "[
+        'Is there a problem?',
+        'Do you need help?'
+    ]",
+    ".*where.*go.*" : "[
+        'Lead on. I\\'ll follow you',
+        'Let\\'s just wander around'
+    ]",
+    ".*what.*do.*" : "[
+        'Good question',
+        'Let\\'s try this'
+    ]",
+    ".*\\battack\\b.*" : "[
+        'That seems dangerous',
+        'This is a bad idea',
+        'Do you need help?'
+    ]",
+    ".*attacked.*" : "[
+        'That seems dangerous',
+        'This is a bad idea',
+        'Do you need help?'
+    ]",
+    ".*night.*" : "[
+        'Night is scary',
+        'There are monsters at night',
+        'Let\\'s prepare'
+    ]",
+    ".*campfire.*" : "[
+        'Good idea',
+        'Light is safer'
+    ]",
+    ".*help.*" : "[
+        'I don\\'t know',
+        'Trying my best',
+        'I have no idea',
+        'This game is hard'
+    ]",
+    ".*problem.*" : "[
+        'I don\\'t know',
+        'Trying my best',
+        'I have no idea',
+        'This game is hard'
+    ]",
+    ".*kill.*" : "[
+        'That\\'s one way to do it',
+        'Bold move',
+        'Oh god'
+    ]",
+    ".*want.*" : "[
+        'Good idea',
+        'I\\'ll think about it',
+        'Couldn\\'t hurt'
+    ]",
+    ".*die.*" : "[
+        'That\\'s a problem',
+        'This game is hard',
+        'Let\\'s try this'
+    ]"
+}

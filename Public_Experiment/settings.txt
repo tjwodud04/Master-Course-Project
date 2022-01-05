@@ -1,0 +1,57 @@
+#######################################
+# This file designates game data file location and speech voice selection
+# One for Window and the other for Mac OS
+#######################################
+
+## Select one of language before testing
+THIS_LANGUAGE = 'en-US'
+#THIS_LANGUAGE = 'ko-KR'
+
+#######################################
+
+#######################################
+# Jae's settings (windows 10)
+
+## path of game mod:
+INTERFACE_FOLDER = "Steam/steamapps/common/Don't Starve Together/mods/HRI_gamemod_client/"
+
+## game mod state information file:
+INTERFACE_FILE = "test.csv"
+#######################################
+
+## MS Azure TTS voice supported:
+# ko-KR - SunHiNeural / InJoonNeural
+# Sample codes could be checked right below link
+# https://github.com/Azure-Samples/cognitive-services-speech-sdk/blob/master/samples/python/console/speech_synthesis_sample.py
+
+if THIS_LANGUAGE != 'en-US':
+    voice = f"Microsoft Server Speech Text to Speech Voice ({THIS_LANGUAGE}, SunHiNeural)"
+    speech_config.speech_synthesis_voice_name = voice
+
+else:
+    voice = f"Microsoft Server Speech Text to Speech Voice ({THIS_LANGUAGE}, JennyNeural)"
+    speech_config.speech_synthesis_voice_name = voice
+
+#######################################
+
+#######################################
+
+# Ben's settings (OSX)
+
+## path of game mod:
+# INTERFACE_FOLDER = "Steam/steamapps/common/Don't Starve Together/dontstarve_steam.app/Contents/mods/workshop-666155465/"
+
+## game mod state information file:
+# INTERFACE_FILE = 'test.csv'
+#######################################
+
+## TTS voice supported:
+#if THIS_LANGUAGE != 'en-US':
+#    voice = f"Microsoft Server Speech Text to Speech Voice ({THIS_LANGUAGE}, SunHiNeural)"
+#    speech_config.speech_synthesis_voice_name = voice
+
+#else:
+#    voice = f"Microsoft Server Speech Text to Speech Voice ({THIS_LANGUAGE}, JennyNeural)"
+#    speech_config.speech_synthesis_voice_name = voice
+
+#####################################

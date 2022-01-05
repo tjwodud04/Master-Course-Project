@@ -1,0 +1,148 @@
+{
+    "inform_morning": "[
+        'Good morning!',
+        'We survived another night.',
+        'Ah, another night another day.',
+        'OK, let\\'s get on with it.'
+    ]",
+    "inform_evening": "[
+        'It\\'s getting dark!',
+        'Another day comes to an end.',
+        'That was a short day.',
+        'Ah, the sunlight\\'s fading fast.'
+    ]",
+    "inform_night": "[
+        'It\\'s night!',
+        'Time to rest.',
+        'Another night to survive.',
+        'Let\\'s take a break till tomorrow.',
+        'Let\\'s hunker down for the night.'
+    ]",
+    "inform_starving": "[
+        'I\\'m about to die of hunger!',
+        'I need to eat (something), quick!',
+        'Ah, I\\'m starving.',
+        'I gotta eat, like now.'
+    ]",
+    "inform_hunger": "[
+        'I need some food for real!',
+        'My stomach is empty.',
+        'Wow, when is the last time I ate.'
+    ]",
+    "inform_dying": "[
+        'I\\'m gonna die soon!',
+        'Aaah, my health is critical!',
+        'Ah crap, I am about to die.'
+    ]",
+    "inform_injured": "[
+        'Um, I think I need some healing.',
+        'Why doesn\\'t this game have medicine.',
+        'My health is quite low.',
+        'Think I need to increase my health.'
+    ]",
+    "inform_getting_insane": "[
+        'My Sanity is almost completely empty!',
+        'Um, My Sanity is critical!',
+        'I am going crazy soon!',
+        'I think I already went crazy.'
+    ]",
+    "inform_low_sanity": "[
+        'My Sanity bar is low, for real.',
+        'I might be going crazy.',
+        'Oops, Need to fix my Sanity!',
+        'I think I need to increase Sanity.'
+    ]",
+    "inform_equip": "[
+        'I equipped this (something)',
+        'Sweet! Now I got this (something)',
+        'Now I got one of these',
+        'Exactly what I needed.'
+    ]",
+    "inform_attack": "[
+        'Let\\'s fight!',
+        'Gonna attack that (something)!',
+        'Let\\'s get that (something)!',
+        'Let\\'s Finish this off quickly together!',
+        'Let\\'s get that (something)!'
+    ]",
+    "inform_defense": "[
+        'Crap, I\\'m being attacked by this (something)!',
+        'Help me out! Aaaaah!',
+        'Help me fight this thing!',
+        'Dammit! This (something) is attacking me.'
+    ]",
+    "inform_less_food": "[
+        'I am a little low on food.',
+        'My food is getting low.',
+        'I need to get more food!',
+        'Probably I need more to eat.'
+    ]",
+    "inform_enough_food": "[
+        'Think I have enough food for now.',
+        'Think I have plenty of food.',
+        'This food should last a while.',
+        'My food supplies are stocked up, good.'
+    ]",
+    "inform_only_axe": "[
+        'Guess I can make an axe now!',
+        'Think I need some other resources',
+        'Are there any OTHER resources around here?',
+        'Eh, we should maybe find some other resources now.'
+    ]",
+    "inform_axe_or_pickaxe": "[
+        'Think I need some other stuff to make better tools?',
+        'Guess I can make an pickaxe now!',
+        'Eh, I should maybe find some other resources now.',
+        'Hmm, I wanna make some better tools.'
+    ]",
+    "inform_both": "[
+        'I can make all sorts of tools now.',
+        'Sweet, I am loaded up on resources.',
+        'Ah, that should do it for now.',
+        'Now I got a bunch of resources.'
+    ]",
+    "inform_torch": "[
+        'Think I have enough to make a torch now!',
+        'I can make a torch at least.',
+        'Ah now I can make this torch, but no campfire.'
+    ]",
+    "inform_campfire": "[
+        'Cool, now I can make a campfire!',
+        'Ah I can make a campfire now.',
+        'Got the campfire covered now.'
+    ]",
+    "inform_firepit": "[
+        'Well, now it\\'s possible to make a fire pit!',
+        'Nice, I can make a fire pit or campfire, whatever now.',
+        'Think I can make all sorts of fire now.',
+        'Ah I can make fire, should be okay for night now.'
+    ]",
+    "inform_near_light": "[
+        'Cool, a light is near!',
+        'Do you see that light?',
+        'Something is lit up nearby.',
+        'Least it\\'s not pitch black.'
+    ]",
+    "inform_near_campfire": "[
+        'Feel better now, it is scary when it is dark.',
+        'That\\'s better, I hate darkness',
+        'There is a campfire or firepit for us.'
+    ]",
+    "inform_lots_of_monsters": "[
+        'There are a lot of monsters here!',
+        'Wow, monsters everywhere.',
+        'Maybe we should avoid all those monsters!',
+        'Crap, maybe this is not a good area.',
+        'So many monsters, seems dangerous.'
+    ]",
+    "inform_a_few_monsters": "[
+        'Think there\\'s a monster nearby!',
+        'Do you see the monsters?',
+        'Thought I saw a monster over there.',
+        'What was that over there? Maybe a monster'
+    ]",
+    "inform_generic_expression": "[
+        'Let\\'s go this way!',
+        'Let\\'s move this way!'
+    ]"
+}
