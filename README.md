@@ -8,9 +8,8 @@
   * Main libraries of speech recognition - pyttsx3, MS Azure STT / TTS
   * Game - Don't Starve Together 
   * Korean / English
-- public experiment short clip :  
-https://user-images.githubusercontent.com/34568203/148342945-a2ba0835-9cd9-40fd-a33a-b2bb2e657815.mp4  
-https://user-images.githubusercontent.com/34568203/148343005-5557e269-3847-4cd7-a2f1-d4009cbdcb1f.mp4
+- public experiment short clips for each language :  
 
+https://user-images.githubusercontent.com/34568203/148344066-df14aeb0-03b1-4649-abbc-8aa46f541d97.mp4
 
-
+https://user-images.githubusercontent.com/34568203/148344153-0ba20544-1423-45f8-88c0-481b6d52caac.mp4
