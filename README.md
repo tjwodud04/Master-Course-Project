@@ -6,3 +6,11 @@
 - Environment :
   * Python
   * Main libraries of speech recognition - pyttsx3, MS Azure STT / TTS
+  * Game - Don't Starve Together 
+  * Korean / English
+- public experiment short clip :  
+https://user-images.githubusercontent.com/34568203/148342945-a2ba0835-9cd9-40fd-a33a-b2bb2e657815.mp4  
+https://user-images.githubusercontent.com/34568203/148343005-5557e269-3847-4cd7-a2f1-d4009cbdcb1f.mp4
+
+
+
