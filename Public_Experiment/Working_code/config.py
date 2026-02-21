@@ -20,8 +20,14 @@ import warnings, logging
 import azure.cognitiveservices.speech as speechsdk
 
 ################ set API keys
-# MS Auzre / used at 'tts.py' and 'asr.py' files
-speech_key, service_region = "", ""
+# MS Azure / used at 'tts.py' and 'asr.py' files
+# SECURITY: API keys should be loaded from environment variables, not hardcoded
+speech_key = os.getenv("AZURE_SPEECH_KEY", "")
+service_region = os.getenv("AZURE_SERVICE_REGION", "")
+
+if not speech_key or not service_region:
+    logging.warning("AZURE_SPEECH_KEY or AZURE_SERVICE_REGION environment variables not set. Speech services will not function.")
+
 speech_config = speechsdk.SpeechConfig(subscription=speech_key, region=service_region)
 audio_config = speechsdk.audio.AudioConfig(device_name="")
 ################ set API keys end
